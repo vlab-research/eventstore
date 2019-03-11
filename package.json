@@ -23,5 +23,8 @@
     "mocha": "^6.0.2",
     "nyc": "^13.3.0",
     "sinon": "^7.2.7"
+  },
+  "dependencies": {
+    "cacheman": "^2.2.1"
   }
 }
